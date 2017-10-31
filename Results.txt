@@ -1,0 +1,403 @@
+// ---------------------------------------------------------------------------------------------------------------
+// Results
+//
+// Author: M'Hand KEDJAR
+// Date: February 13, 2012
+// Last Modified: October, 31, 2017
+// Course: Data Structures and Algorithms - Winter 2012 - CCCS-315-761
+// Place: At home
+// Description: This file contains the results of the program
+// Known Bugs: None
+// ---------------------------------------------------------------------------------------------------------------
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Please, enter your choice: 1
+
+Enter the title: Sister Act
+*********************
+**  Title found!!  **
+*********************
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 2
+
+Enter the title: Titanic
+Enter your ID: 1
+Thank you for renting the movie Titanic
+++********************************++
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 2
+
+Enter the title: Sister Act
+Enter your ID: 2
+Thank you for renting the movie Sister Act
+++********************************++
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 2
+
+Enter the title: Titanic
+Enter your ID: 3
+Thank you for renting the movie Titanic
+++********************************++
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 4
+
+Enter the title: Titanic
+Titanic is currently in stock.
+[[****************************]]
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 2
+
+Enter the title: Titanic
+Enter your ID: 4
+Thank you for renting the movie Titanic
+++********************************++
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 4
+
+Enter the title: Titanic
+Titanic is currently out of stock.
+{{*********************************}}
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 3
+
+Enter the title: Titanic
+Enter your ID: 4
+You have returned Titanic Thank you!
+!!*************************************!!
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 4
+
+Enter the title: Titanic
+Titanic is currently in stock.
+[[****************************]]
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 5
+
+The videos we have in the store are: 
+Video Title: Rain Man
+Video Title: Jerry MacGuire
+Video Title: Sister Act
+Video Title: One Fine Day
+Video Title: Titanic
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 6
+
+The details of the videos we have in the store are: 
+Video Title: Rain Man
+Stars: Dustin Hoffman and Tom Cruise
+Producer: Johnson
+Director: Levinson
+Production Company: United Artists
+Copies in stock: 2
+----------------------------------
+Video Title: Jerry MacGuire
+Stars: Tom Cruise and Renne Zellwegger
+Producer: Brooks
+Director: Crowe
+Production Company: United Artists
+Copies in stock: 1
+----------------------------------
+Video Title: Sister Act
+Stars: Whoopi GoldBerg and Maggie Smith
+Producer: Schwartz
+Director: Ardolino
+Production Company: Touch Stone Pictures
+Copies in stock: 3
+----------------------------------
+Video Title: One Fine Day
+Stars: George Clooney and Michelle Pfeiffer
+Producer: Obset
+Director: Hoffman
+Production Company: 20th Century Fox
+Copies in stock: 2
+----------------------------------
+Video Title: Titanic
+Stars: Kate Winslet and Leonardo DiCaprio
+Producer: Cameron
+Director: Cameron
+Production Company: 20th Century Fox
+Copies in stock: 1
+----------------------------------
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 7
+
+Costumers registred in store are: 
+First Name: Margaret
+Last Name: Joseph
+ID: 14
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Susan
+Last Name: Thomas
+ID: 13
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Maria
+Last Name: David
+ID: 12
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Jennifer
+Last Name: Charles
+ID: 11
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: William
+Last Name: Taylor
+ID: 10
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Elizabeth
+Last Name: Moore
+ID: 9
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Barbara
+Last Name: Wilson
+ID: 8
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Michael
+Last Name: Miller
+ID: 7
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Linda
+Last Name: Davis
+ID: 6
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Robert
+Last Name: Brown
+ID: 5
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: John
+Last Name: Jones
+ID: 4
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Patricia
+Last Name: Williams
+ID: 3
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: James
+Last Name: Johnson
+ID: 2
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+First Name: Mary
+Last Name: Smith
+ID: 1
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 8
+
+The details of the rented videos are: 
+Customer ID: 3, Videos rented are: 
+Titanic
+Customer ID: 2, Videos rented are: 
+Sister Act
+Customer ID: 1, Videos rented are: 
+Titanic
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 2
+
+Enter the title: Sister Act
+Enter your ID: 3
+Thank you for renting the movie Sister Act
+++********************************++
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 8
+
+The details of the rented videos are: 
+Customer ID: 3, Videos rented are: 
+Titanic
+Sister Act
+Customer ID: 2, Videos rented are: 
+Sister Act
+Customer ID: 1, Videos rented are: 
+Titanic
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 3
+
+Enter the title: Happy Birthday
+Sorry, the movie Happy Birthday is not from our store
+||************************************************||
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 2
+
+Enter the title: Titanic
+Enter your ID: 17
+Sorry, your are not a registered costumer in our store
+
+Select one of the following: 
+1: Check if the store owns a particular video title
+2: Check out a video
+3: Check in a video
+4: Check if a particular video is in the store
+5: Print the titles of all videos
+6: Print a list of all the videos
+7: Print a list of all the customers
+8: Print out which customer has rented which video
+9: Exit
+Enter your choice: 9
+
+BUILD SUCCESSFUL (total time: 24 minutes 0 seconds)
